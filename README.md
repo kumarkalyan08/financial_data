@@ -11,21 +11,34 @@ Total Funded Amount
 Total Payment Amount
 Average Interest Rate
 Average DTI (Debt-to-Income) Rate
+
+
 **Loan Quality Analysis:**
 Breakdown of "Good Loan Issued" vs. "Bad Loan Issued."
+
+
+
 **Loan Application Status:**
 Fully Paid
 Current
 Charged Off
 Breakdown by Grade and Loan Purpose.
-Overview Dashboard
+
+
+**Overview Dashboard**
+
+
 **The Overview Dashboard includes:**
 **Monthly Trends:**
 Total Loan Applications by Month.
+
+
 **State-Level Analysis:**
 Total Loan Applications by U.S. State.
 Employment Length Analysis:
 Applications grouped by employment tenure.
+
+
 **Loan Purpose Analysis:**
 Applications categorized by the purpose of the loan (e.g., credit card, home improvement, etc.).
 Features
